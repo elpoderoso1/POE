@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_5
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese su edad en años: ");
             int edad = Convert.ToInt32(Console.ReadLine());

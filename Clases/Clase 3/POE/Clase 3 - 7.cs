@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_7
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese un número: ");
             double numero = Convert.ToDouble(Console.ReadLine());

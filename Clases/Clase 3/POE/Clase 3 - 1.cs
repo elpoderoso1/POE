@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_1
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese la base del terreno (m): ");
             double baseTerreno = Convert.ToDouble(Console.ReadLine());

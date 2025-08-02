@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\Visual Studio\\Projects\\POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50BAA7E2-76F1-4585-A08C-468EBC779C4D}|POE\\POE.csproj|j:\\visual studio\\projects\\poe\\poe\\calcularareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BAA7E2-76F1-4585-A08C-468EBC779C4D}|POE\\POE.csproj|solutionrelative:poe\\calcularareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50BAA7E2-76F1-4585-A08C-468EBC779C4D}|POE\\POE.csproj|j:\\visual studio\\projects\\poe\\poe\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50BAA7E2-76F1-4585-A08C-468EBC779C4D}|POE\\POE.csproj|solutionrelative:poe\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcularAreas.cs",
+              "DocumentMoniker": "J:\\Visual Studio\\Projects\\POE\\POE\\CalcularAreas.cs",
+              "RelativeDocumentMoniker": "POE\\CalcularAreas.cs",
+              "ToolTip": "J:\\Visual Studio\\Projects\\POE\\POE\\CalcularAreas.cs",
+              "RelativeToolTip": "POE\\CalcularAreas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:38:00.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "J:\\Visual Studio\\Projects\\POE\\POE\\Main.cs",
+              "RelativeDocumentMoniker": "POE\\Main.cs",
+              "ToolTip": "J:\\Visual Studio\\Projects\\POE\\POE\\Main.cs",
+              "RelativeToolTip": "POE\\Main.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T19:36:57.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

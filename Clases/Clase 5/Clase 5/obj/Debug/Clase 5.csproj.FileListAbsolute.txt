@@ -1,0 +1,8 @@
+J:\Visual Studio\Projects\Clase 5\Clase 5\bin\Debug\Clase 5.exe.config
+J:\Visual Studio\Projects\Clase 5\Clase 5\bin\Debug\Clase 5.exe
+J:\Visual Studio\Projects\Clase 5\Clase 5\bin\Debug\Clase 5.pdb
+J:\Visual Studio\Projects\Clase 5\Clase 5\obj\Debug\Clase 5.csproj.AssemblyReference.cache
+J:\Visual Studio\Projects\Clase 5\Clase 5\obj\Debug\Clase 5.csproj.CoreCompileInputs.cache
+J:\Visual Studio\Projects\Clase 5\Clase 5\obj\Debug\Clase 5.exe
+J:\Visual Studio\Projects\Clase 5\Clase 5\obj\Debug\Clase 5.pdb
+J:\Visual Studio\Projects\Clase 5\Clase 5\obj\Debug\Clase 5.exe.config

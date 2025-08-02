@@ -1,0 +1,16 @@
+J:\Visual Studio\Projects\POE\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+J:\Visual Studio\Projects\POE\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+J:\Visual Studio\Projects\POE\POE\bin\Debug\POE.exe.config
+J:\Visual Studio\Projects\POE\POE\bin\Debug\POE.exe
+J:\Visual Studio\Projects\POE\POE\bin\Debug\POE.pdb
+J:\Visual Studio\Projects\POE\POE\obj\Debug\POE.exe
+J:\Visual Studio\Projects\POE\POE\obj\Debug\POE.pdb
+J:\Visual Studio\Projects\POE\POE\obj\Debug\POE.exe.config
+J:\Visual Studio\Projects\Clase 3\POE\obj\Debug\POE.csproj.AssemblyReference.cache
+J:\Visual Studio\Projects\Clase 3\POE\obj\Debug\POE.exe.config
+J:\Visual Studio\Projects\Clase 3\POE\obj\Debug\POE.csproj.CoreCompileInputs.cache
+J:\Visual Studio\Projects\Clase 3\POE\obj\Debug\POE.exe
+J:\Visual Studio\Projects\Clase 3\POE\obj\Debug\POE.pdb
+J:\Visual Studio\Projects\Clase 3\POE\bin\Debug\POE.exe.config
+J:\Visual Studio\Projects\Clase 3\POE\bin\Debug\POE.exe
+J:\Visual Studio\Projects\Clase 3\POE\bin\Debug\POE.pdb

@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_4
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese la cantidad en dólares: ");
             double dolares = Convert.ToDouble(Console.ReadLine());

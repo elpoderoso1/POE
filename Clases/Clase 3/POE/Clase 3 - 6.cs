@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_6
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese la longitud del lado 1: ");
             double lado1 = Convert.ToDouble(Console.ReadLine());

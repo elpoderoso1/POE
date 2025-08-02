@@ -1,4 +1,10 @@
 ﻿using System;
+using System.CodeDom;
+using System.Collections.Generic;
+using System.Data.SqlTypes;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace POE
 {
@@ -16,8 +22,9 @@ namespace POE
                 Console.WriteLine("3. Verificación de contraseña");
                 Console.WriteLine("4. Promedio de calificaciones");
                 Console.WriteLine("5. Sistema de inventario");
-                Console.WriteLine("6. Salir");
-                Console.Write("Seleccione una opción (1-6): ");
+                Console.WriteLine("6. Cálculo de áreas");
+                Console.WriteLine("7. Salir");
+                Console.Write("Seleccione una opción (1-7): ");
 
                 if (!int.TryParse(Console.ReadLine(), out opcion))
                 {
@@ -25,7 +32,7 @@ namespace POE
                     continue;
                 }
 
-                Console.WriteLine(); // espacio extra
+                Console.WriteLine();
 
                 switch (opcion)
                 {
@@ -45,6 +52,9 @@ namespace POE
                         Inventario.Inventory();
                         break;
                     case 6:
+                        AreaCalculator.EjectCalculator();
+                        break;
+                    case 7:
                         Console.WriteLine("Saliendo del programa...");
                         break;
                     default:
@@ -54,7 +64,8 @@ namespace POE
 
                 Console.WriteLine();
 
-            } while (opcion != 6);
+            } while (opcion != 7);
         }
     }
 }
+

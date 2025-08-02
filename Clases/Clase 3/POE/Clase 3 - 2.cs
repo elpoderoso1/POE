@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 
-namespace Class_III
+namespace POE
 {
     internal class Class_3_2
     {
-        static void Main(string[] args)
+        public static void Mostrar()
         {
             Console.Write("Ingrese la primera nota: ");
             double nota1 = Convert.ToDouble(Console.ReadLine());
