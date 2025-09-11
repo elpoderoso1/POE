@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "J:\\GitHub\\POE\\Parciales\\Parcial I\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|j:\\github\\poe\\parciales\\parcial i\\parcial i\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34776A7-878A-4470-8A15-1471405E4979}|Parcial I\\Parcial I.csproj|solutionrelative:parcial i\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio5.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio5.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Ejercicio5.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio5.cs",
+              "RelativeToolTip": "Parcial I\\Ejercicio5.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:42:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio4.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio4.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Ejercicio4.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio4.cs",
+              "RelativeToolTip": "Parcial I\\Ejercicio4.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:38:18.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio3.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio3.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Ejercicio3.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio3.cs",
+              "RelativeToolTip": "Parcial I\\Ejercicio3.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwE4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:29:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejercicio2.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio2.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Ejercicio2.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio2.cs",
+              "RelativeToolTip": "Parcial I\\Ejercicio2.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwIQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:25:23.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Producto.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Producto.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Producto.cs",
+              "RelativeToolTip": "Parcial I\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:22:47.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejercicio1.cs",
+              "DocumentMoniker": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio1.cs",
+              "RelativeDocumentMoniker": "Parcial I\\Ejercicio1.cs",
+              "ToolTip": "J:\\GitHub\\POE\\Parciales\\Parcial I\\Parcial I\\Ejercicio1.cs",
+              "RelativeToolTip": "Parcial I\\Ejercicio1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T23:10:15.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

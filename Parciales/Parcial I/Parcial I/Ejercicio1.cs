@@ -48,11 +48,15 @@ namespace Parcial_I
 
             double promedio = suma / cantidadNotas;
 
+
             Console.WriteLine("\n=== Resultados ===");
             Console.WriteLine($"Promedio: {promedio:F2}");
             Console.WriteLine($"Nota más alta: {max}");
             Console.WriteLine($"Nota más baja: {min}");
             Console.WriteLine(promedio >= 7 ? "Estado: APROBADO" : "Estado: REPROBADO");
+
+            Console.WriteLine("\nPresione cualquier tecla para volver al menú...");
+            Console.ReadKey();
         }
     }
 }

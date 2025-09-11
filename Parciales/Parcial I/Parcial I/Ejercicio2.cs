@@ -129,7 +129,6 @@ namespace Parcial_I
             foreach (var producto in inventario)
                 Console.WriteLine($"{producto.Nombre} | Precio: {producto.Precio} | Cantidad: {producto.Cantidad} | Valor Total: {producto.ValorTotal}");
         }
-
         static void CalcularValorTotal(List<Producto> inventario)
         {
             Console.Clear();
